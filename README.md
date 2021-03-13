@@ -2,7 +2,7 @@
 
 **Extract: Spotify API**
 
-I retrieved data out of the Spotify API to get a maximum of 50 of my most recently played tracks. The result of calling this endpoint is a dictionary which I will then take and create multiple dataframes after cleaning it up a bit first. 
+I retrieved data out of the Spotify API to get a maximum of 50 of my most recently played tracks. The result of this is a dictionary which I will then take and create multiple dataframes after cleaning it. 
 
 **Transform: Python and Pandas**
 
